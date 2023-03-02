@@ -1,1 +1,1 @@
-This is file2.
+This is file2. of newly created branch
